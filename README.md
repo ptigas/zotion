@@ -22,5 +22,5 @@ Take paper notes in zotero with notion.
 
 4. Copy link of collection which should look like `https://www.notion.so/ptigas/[database id]?v=[blah]`. Copy the database id which should look similar to `009aeb7ed769410e8a27393c1c2d9e06`.
 
-5. Install the XPI https://github.com/ptigas/zotion/releases/download/untagged-77fb31e31b177daccd35/zotion.xpi in zotero. Go to Tools / Zotion preferences and add the notion key and notion database id. Press save.  
+5. Install the XPI https://github.com/ptigas/zotion/releases/download/v0.1/zotion.xpi in zotero. Go to Tools / Zotion preferences and add the notion key and notion database id. Press save.  
 ![image](https://user-images.githubusercontent.com/208803/131150763-25f02302-cb20-4e06-9b56-4c54ba4d92dc.png)
