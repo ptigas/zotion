@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<RDF:RDF
+    xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+    xmlns:NC="http://home.netscape.com/NC-rdf#"
+    xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <RDF:Description
+        RDF:about="urn:mozilla:install-manifest"
+        em:id="ptigas@gmail.com"
+        em:name="Zotion"
+        em:version="0.1.0"
+        em:type="2"
+        em:creator="Panagiotis Tigas"
+        em:description="Plugin that allows to take notes of papers in notion"
+        em:homepageURL="https://github.com/ptigas/zotion"
+        em:updateURL="https://raw.githubusercontent.com/ptigas/zotion/master/update.rdf">
+        <em:type>2</em:type>
+        <em:targetApplication>
+            <Description>
+                <em:id>zotero@chnm.gmu.edu</em:id>
+                <em:minVersion>5.0</em:minVersion>
+                <em:maxVersion>5.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+        <em:targetApplication>
+          <Description>
+            <em:id>juris-m@juris-m.github.io</em:id>
+            <em:minVersion>5.0</em:minVersion>
+            <em:maxVersion>5.*</em:maxVersion>
+          </Description>
+        </em:targetApplication>
+    </RDF:Description>
+</RDF:RDF>

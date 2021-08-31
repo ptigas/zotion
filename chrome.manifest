@@ -1,0 +1,7 @@
+content zotion chrome/content/
+
+overlay chrome://zotero/content/zoteroPane.xul chrome://zotion/content/overlay.xul
+
+locale  zotion  en-US   chrome/locale/en-US/
+
+skin    zotion  default chrome/skin/default/zotion/
