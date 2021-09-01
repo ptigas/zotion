@@ -1,12 +1,8 @@
+<div align="center">
 <img src="https://user-images.githubusercontent.com/208803/131545988-e837e2c2-fd74-4e4c-ba46-6cc28fbdcb6a.png" width="50" height="50"> 
-
-# Zotero + Notion = Zotion
-
-Keep paper notes in zotero with notion. It uses notion API to create a new entry in a notion database.
-
-## Usage
-
-![save](https://user-images.githubusercontent.com/208803/131544124-90af44ef-f0e2-43ef-b1b2-bef3002fe1af.gif)
+<h4>Zotero + Notion = Zotion</h4>
+<img src="https://user-images.githubusercontent.com/208803/131544124-90af44ef-f0e2-43ef-b1b2-bef3002fe1af.gif"/>
+</div>
 
 ## Installation Steps
 
