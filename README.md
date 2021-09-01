@@ -2,7 +2,7 @@
 
 # Zotero + Notion = Zotion
 
-Take paper notes in zotero with notion.
+Keep paper notes in zotero with notion. It uses notion API to create a new entry in a notion database.
 
 ## Usage
 
